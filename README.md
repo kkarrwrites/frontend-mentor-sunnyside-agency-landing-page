@@ -9,3 +9,5 @@ In Chrome (105.0.5195.127), the styling for the SVGs in the footer (the logo and
 I also plan to address the accessibly and HTML issues at a later date.
 
 Submitted to [Frontend Mentor](https://www.frontendmentor.io/solutions/html-css-oocss-javascript-vs-code-firefox-h8YK1ebx6k) on September 16, 2022.
+
+Update September 19, 2022: I fixed the accessibility and HTML issues found via the report on Frontend Mentor.
